@@ -1,5 +1,3 @@
-# Decision-tree-from-scratch
-A Python implementation of a Decision Tree classifier built entirely from scratch
 # Decision Tree Classifier From Scratch
 
 A Python implementation of a Decision Tree classifier built entirely from scratch without using sklearn's implementation. This project demonstrates the inner workings of decision trees with readable, well-documented code.
@@ -127,7 +125,7 @@ The implementation has been tested on several standard datasets:
 | Wine    | 92.59%   | 0.021s        | 0.004s         |
 | Breast Cancer | 94.15% | 0.046s   | 0.006s         |
 
-*Tested on a MacBook Pro with 16GB RAM, 2.3 GHz Quad-Core Intel Core i7
+
 
 ## Comparison with Scikit-learn
 
@@ -141,15 +139,6 @@ While this implementation prioritizes readability and learning, it's still reaso
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
